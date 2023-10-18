@@ -22,8 +22,10 @@ body {
 .content {
   min-height: calc(100vh - 100px);
   width: 720px;
+  max-width: 100%;
   margin: auto;
 }
+
  
 .section {
   height: 450px;
@@ -33,4 +35,4 @@ body {
   justify-content: center;
   align-items: center;
   border: 1px solid black;
-}
+
